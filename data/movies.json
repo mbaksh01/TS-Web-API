@@ -1,0 +1,62 @@
+[
+  {
+    "id": "c108d830-32f6-46b3-9707-2d45139e24da",
+    "title": "My Movie 1",
+    "description": "This is a really cool movie. You should watch it!",
+    "dateOfRelease": "2023-05-20T00:00:00:000Z"
+  },
+  {
+    "id": "80404eb3-9917-4555-a955-75734cb5aef7",
+    "title": "My Movie 2",
+    "description": "This is a really cool movie. You should watch it!",
+    "dateOfRelease": "2023-05-20T00:00:00:000Z"
+  },
+  {
+    "id": "7432b140-bae2-4ef8-9088-5235a503c322",
+    "title": "My Movie 3",
+    "description": "This is a really cool movie. You should watch it!",
+    "dateOfRelease": "2023-05-20T00:00:00:000Z"
+  },
+  {
+    "id": "7ecc7d1e-1ed4-4f34-afba-1f70bf69615e",
+    "title": "My Movie 4",
+    "description": "This is a really cool movie. You should watch it!",
+    "dateOfRelease": "2023-05-20T00:00:00:000Z"
+  },
+  {
+    "id": "22bcd64a-1c88-4c20-923a-67ad23c99f80",
+    "title": "My Movie 5",
+    "description": "This is a really cool movie. You should watch it!",
+    "dateOfRelease": "2023-05-20T00:00:00:000Z"
+  },
+  {
+    "id": "1efb7b3b-f8b7-48d5-8b73-20e17e431e1c",
+    "title": "My Movie 6",
+    "description": "This is a really cool movie. You should watch it!",
+    "dateOfRelease": "2023-05-20T00:00:00:000Z"
+  },
+  {
+    "id": "bd0f17fc-8eef-4b09-8439-57703e794808",
+    "title": "My Movie 7",
+    "description": "This is a really cool movie. You should watch it!",
+    "dateOfRelease": "2023-05-20T00:00:00:000Z"
+  },
+  {
+    "id": "3f398765-e516-415e-8308-62ce0c2683dd",
+    "title": "My Movie 8",
+    "description": "This is a really cool movie. You should watch it!",
+    "dateOfRelease": "2023-05-20T00:00:00:000Z"
+  },
+  {
+    "id": "612b3857-89e0-4360-842a-bfa2c5cd352b",
+    "title": "My Movie 9",
+    "description": "This is a really cool movie. You should watch it!",
+    "dateOfRelease": "2023-05-20T00:00:00:000Z"
+  },
+  {
+    "id": "8dbf27e4-b955-49c0-8721-d75a30dfb600",
+    "title": "My Movie 10",
+    "description": "This is a really cool movie. You should watch it!",
+    "dateOfRelease": "2023-05-20T00:00:00:000Z"
+  }
+]
